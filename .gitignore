@@ -32,3 +32,13 @@
 *.app
 
 *.txt
+resource/textures/box.png
+resource/shaders/modelAnimation.frag
+resource/shaders/modelAnimation.vert
+resource/shaders/model.vert
+resource/shaders/model.frag
+resource/shaders/basic.vert
+resource/shaders/basic.frag
+resource/models/heart2.obj
+resource/models/heart.obj
+resource/models/heart.mtl
